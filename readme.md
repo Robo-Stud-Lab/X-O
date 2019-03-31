@@ -18,3 +18,6 @@ This API is designed to solve tic-tac-toe game on whatever canvas it is asked, f
 - [ ] Connect the API to **X/O** Robottt
 - [ ] Construct a documentation
 - [ ] Refacture if needed
+- [ ] Load to NPM
+
+## Documentation
