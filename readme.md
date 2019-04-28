@@ -11,13 +11,13 @@ This API is designed to solve tic-tac-toe game on whatever canvas it is asked, f
 ### Tasks
 
 - [x] Prepare a repository
-- [ ] Make a neural network to work in local area
-- [ ] Make the canvas of the game resizable before start
-- [ ] Design API Calls
+- [x] Make a neural network to work in local area
+- [x] Make the canvas of the game resizable before start
+- [x] Design API Calls
 - [ ] Build a UI
 - [ ] Connect the API to **X/O** Robottt
 - [ ] Construct a documentation
 - [ ] Refacture if needed
-- [ ] Load to NPM
+- [ ] ~~Load to NPM~~
 
 ## Documentation
